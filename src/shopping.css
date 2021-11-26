@@ -1,0 +1,28 @@
+.cartLogo{
+    height: 50px;
+    float:right;
+    display:inline;
+}
+.s-header{
+    display:inline;
+    color:white;
+    font-size: 30px;
+}
+.login{
+    display:inline;
+    color:white;
+    float:right;
+    font-size: 20px;
+}
+.signup, .logout{
+    display:inline;
+    color:white;
+    float:right;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.header{
+    background-color: black;
+    height:50px;
+}
